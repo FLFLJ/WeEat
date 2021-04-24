@@ -7,7 +7,16 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "cnpm": "^6.2.0",
+    "compression-webpack-plugin": "^5.0.1",
     "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.14.1",
+    "nanobar": "^0.4.2",
+    "nprogress": "^0.2.0",
+    "s": "^1.0.0",
+    "three": "^0.124.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
